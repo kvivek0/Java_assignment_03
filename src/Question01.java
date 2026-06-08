@@ -5,8 +5,8 @@
 
 public class Question01 {
     public static void main(String []args){
-        char A=65;
-             ++A;
-         System.out.println("After increment of A is "+A);
+        char a='A';
+             ++a;
+         System.out.println("After increment of A is "+a);
     }
 }
